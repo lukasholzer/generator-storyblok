@@ -1,0 +1,20 @@
+{
+  "name": "generator-storyblok",
+  "version": "0.0.1",
+  "description": "Generator for netural projects with storyblok setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp serve"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "netural",
+    "generator",
+    "storyblok"
+  ],
+  "author": "office@lukasholzer.com",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
